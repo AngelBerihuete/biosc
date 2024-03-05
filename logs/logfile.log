@@ -1,0 +1,5 @@
+2024-03-05 12:34:42,929 - INFO - {'age': {'dist': 'uniform', 'lower': 0, 'upper': 200}, 'distance': {'dist': 'normal', 'mu': 135, 'sigma': 20}}
+2024-03-05 12:34:42,929 - INFO - Model3
+2024-03-05 12:34:43,022 - INFO - Model3: Starting sampling ...
+2024-03-05 12:34:52,126 - INFO - Compiling new CVM
+2024-03-05 12:34:52,352 - INFO - New version 0.212
